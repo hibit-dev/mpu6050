@@ -5,7 +5,8 @@ The MPU-6050 features three 16-bit analog-to-digital converters (ADCs) for digit
   
 ├ doc  
 ├ src  
-│  └ raw  
+│  ├ raw  
+│  └ complementary_filter  
 ├ lib  
 └ schema  
 
@@ -13,6 +14,7 @@ The MPU-6050 features three 16-bit analog-to-digital converters (ADCs) for digit
 Instructions and full documentation are always available on [HiBit](https://www.hibit.dev).  
 Additional information about this repository can be found here:
 - [Reading MPU6050 sensors with Arduino](https://www.hibit.dev/posts/87/reading-mpu6050-sensors-with-arduino)
+- [Complementary filter and relative orientation with MPU6050](https://www.hibit.dev/posts/91/reading-mpu6050-sensors-with-arduino)
 
 ## Security
 If you discover any security related issues, please email security@hibit.dev instead of using the issue tracker.
