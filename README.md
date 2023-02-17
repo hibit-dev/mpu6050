@@ -14,7 +14,7 @@ The MPU-6050 features three 16-bit analog-to-digital converters (ADCs) for digit
 Instructions and full documentation are always available on [HiBit](https://www.hibit.dev).  
 Additional information about this repository can be found here:
 - [Reading MPU6050 sensors with Arduino](https://www.hibit.dev/posts/87/reading-mpu6050-sensors-with-arduino)
-- [Complementary filter and relative orientation with MPU6050](https://www.hibit.dev/posts/91/reading-mpu6050-sensors-with-arduino)
+- [Complementary filter and relative orientation with MPU6050](https://www.hibit.dev/posts/92/reading-mpu6050-sensors-with-arduino)
 
 ## Security
 If you discover any security related issues, please email security@hibit.dev instead of using the issue tracker.
@@ -23,4 +23,4 @@ If you discover any security related issues, please email security@hibit.dev ins
 HiBit is a platform made by and for enthusiasts of the IT world. [On our website](https://www.hibit.dev) you can read and comment on technical articles, tutorials, news ... and everything that may interest you in the computing world.
 
 ## License
-The MIT License (MIT). Please see [License File](LICENSE.md) for more information.
+The MIT License (MIT). Please see [License File](LICENSE) for more information.
